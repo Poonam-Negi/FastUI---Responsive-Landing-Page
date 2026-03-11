@@ -1,17 +1,35 @@
-# Responsive Landing Page
+# FastUI - Responsive Landing Page
 
-A responsive landing page built using Tailwind CSS and JavaScript.
+A modern responsive landing page built with **Tailwind CSS** and **JavaScript**.
 
 ## Features
 - Responsive layout
-- Dark mode toggle
+- Dark mode toggle with localStorage
 - Mobile navigation menu
+- Image gallery
 - Feature cards
 - Pricing section
 - Testimonials
-- Contact form
+- Contact form UI
 
 ## Tech Stack
-HTML5  
-Tailwind CSS  
-JavaScript
+- HTML5
+- Tailwind CSS
+- JavaScript
+
+## Responsive Design
+Works on:
+- Mobile
+- Tablet
+- Desktop
+
+## Preview
+(https://poonam-negi.github.io/FastUI_Responsive-Landing-Page/)
+
+## Project Structure
+project/
+│
+├── index.html
+├── script.js
+├── README.md
+└── Images/
